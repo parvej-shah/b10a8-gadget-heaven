@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What is Gadget Heaven?",
+    "answer": "Gadget Heaven is an e-commerce platform dedicated to bringing you the latest and greatest gadgets and electronics."
+  },
+  {
+    "id": 2,
+    "question": "How do I place an order?",
+    "answer": "To place an order, simply add items to your cart and proceed to checkout. Follow the instructions to complete your purchase."
+  },
+  {
+    "id": 3,
+    "question": "What payment methods are accepted?",
+    "answer": "We accept major credit cards, debit cards, and PayPal. More payment options may be available depending on your location."
+  },
+  {
+    "id": 4,
+    "question": "Do you offer international shipping?",
+    "answer": "Yes, we ship worldwide! Shipping rates and times may vary depending on the destination."
+  },
+  {
+    "id": 5,
+    "question": "How long does shipping take?",
+    "answer": "Shipping usually takes 3-7 business days within the country and 7-14 business days for international orders."
+  },
+  {
+    "id": 6,
+    "question": "Can I track my order?",
+    "answer": "Yes, you will receive a tracking number via email once your order is shipped. You can use this to track your order on our website."
+  },
+  {
+    "id": 7,
+    "question": "What is your return policy?",
+    "answer": "We offer a 30-day return policy on most products. Please refer to our Returns and Refunds page for details."
+  },
+  {
+    "id": 8,
+    "question": "How can I contact customer support?",
+    "answer": "You can reach our customer support team via email at support@gadgetheaven.com or call our hotline during business hours."
+  },
+  {
+    "id": 9,
+    "question": "Are there warranties on your products?",
+    "answer": "Yes, many of our products come with manufacturer warranties. Please check product descriptions for warranty details."
+  },
+  {
+    "id": 10,
+    "question": "Can I cancel my order?",
+    "answer": "Orders can be canceled within 24 hours of purchase. Contact customer support for assistance with cancellations."
+  },
+  {
+    "id": 11,
+    "question": "What should I do if I receive a defective product?",
+    "answer": "If you receive a defective product, please contact our customer support within 7 days for a replacement or refund."
+  },
+  {
+    "id": 12,
+    "question": "Do you offer gift wrapping?",
+    "answer": "Yes, gift wrapping is available for an additional fee. You can select this option at checkout."
+  },
+  {
+    "id": 13,
+    "question": "Do I need to create an account to place an order?",
+    "answer": "No, you can place an order as a guest, but creating an account allows you to track orders and view your order history."
+  },
+  {
+    "id": 14,
+    "question": "How can I change my shipping address?",
+    "answer": "You can change your shipping address before the order is shipped by contacting our support team."
+  },
+  {
+    "id": 15,
+    "question": "Can I earn rewards or discounts on Gadget Heaven?",
+    "answer": "Yes, we offer a rewards program and seasonal discounts. Sign up for our newsletter to stay updated."
+  }
+]

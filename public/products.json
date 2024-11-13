@@ -1,0 +1,268 @@
+[
+  {
+    "product_id": "L001",
+    "product_title": "MacBook Air M1",
+    "product_image": "https://i.ibb.co.com/PDGBmGj/Mac-Book-Air-M1.jpg",
+    "category": "Laptop",
+    "price": 999.99,
+    "description": "The Apple MacBook Air with M1 chip delivers amazing speed and efficiency in a slim design.",
+    "Specification": [
+      "Apple M1 chip",
+      "8GB RAM",
+      "256GB SSD",
+      "13.3-inch Retina Display",
+      "18-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "L002",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/nbnFL79/Dell-XPS-13.jpg",
+    "category": "Laptop",
+    "price": 1199.99,
+    "description": "Dell's flagship XPS 13 laptop offers high performance in an ultra-sleek design.",
+    "Specification": [
+      "Intel i7 11th Gen",
+      "16GB RAM",
+      "512GB SSD",
+      "13.4-inch FHD+ Display",
+      "12-hour battery life"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "L003",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/wpf75LS/HP-Spectre-x360.webp",
+    "category": "Laptop",
+    "price": 1399.99,
+    "description": "HP Spectre x360 is a high-end 2-in-1 laptop designed for performance and versatility.",
+    "Specification": [
+      "Intel i7 11th Gen",
+      "16GB RAM",
+      "512GB SSD",
+      "13.3-inch 4K OLED Display",
+      "10-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "L004",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/MhcRLLV/Lenovo-Think-Pad-X1-Carbon.jpg",
+    "category": "Laptop",
+    "price": 1249.99,
+    "description": "The Lenovo ThinkPad X1 Carbon is designed for business professionals who need power and portability.",
+    "Specification": [
+      "Intel i5 11th Gen",
+      "8GB RAM",
+      "256GB SSD",
+      "14-inch FHD Display",
+      "15-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "L005",
+    "product_title": "Asus ZenBook 14",
+    "product_image": "https://i.ibb.co.com/Jt6Dm16/Asus-Zen-Book-14.jpg",
+    "category": "Laptop",
+    "price": 999.99,
+    "description": "The Asus ZenBook 14 is a compact, lightweight laptop with a beautiful display and solid performance.",
+    "Specification": [
+      "AMD Ryzen 5",
+      "8GB RAM",
+      "512GB SSD",
+      "14-inch FHD Display",
+      "11-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "L006",
+    "product_title": "Microsoft Surface Laptop 4",
+    "product_image": "https://i.ibb.co.com/3r7s2GS/Microsoft-Surface-Laptop-4.jpg",
+    "category": "Laptop",
+    "price": 1299.99,
+    "description": "The Microsoft Surface Laptop 4 combines performance, design, and versatility.",
+    "Specification": [
+      "Intel i5 11th Gen",
+      "8GB RAM",
+      "256GB SSD",
+      "13.5-inch PixelSense Display",
+      "13-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "S001",
+    "product_title": "iPhone 13",
+    "product_image": "https://i.ibb.co.com/0sv1TzQ/i-Phone-13.jpg",
+    "category": "Smartphone",
+    "price": 799.99,
+    "description": "The latest iPhone 13, with A15 Bionic chip and stunning display.",
+    "Specification": [
+      "A15 Bionic chip",
+      "128GB Storage",
+      "12MP dual camera",
+      "6.1-inch Super Retina XDR display",
+      "5G support"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "S002",
+    "product_title": "Samsung Galaxy S21",
+    "product_image": "https://i.ibb.co.com/jyhd9Lw/Samsung-Galaxy-S21.jpg",
+    "category": "Smartphone",
+    "price": 699.99,
+    "description": "Samsung Galaxy S21 with powerful processor and pro-grade camera.",
+    "Specification": [
+      "Exynos 2100",
+      "128GB Storage",
+      "64MP camera",
+      "6.2-inch Dynamic AMOLED 2X display",
+      "5G support"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "S003",
+    "product_title": "Google Pixel 6",
+    "product_image": "https://i.ibb.co.com/FmCNQFZ/Google-Pixel-6.jpg",
+    "category": "Smartphone",
+    "price": 599.99,
+    "description": "Google Pixel 6 offers a pure Android experience with top-notch camera.",
+    "Specification": [
+      "Google Tensor chip",
+      "128GB Storage",
+      "50MP wide camera",
+      "6.4-inch OLED display",
+      "5G support"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "S004",
+    "product_title": "OnePlus 9 Pro",
+    "product_image": "https://i.ibb.co.com/wsvdHNQ/One-Plus-9-Pro.jpg",
+    "category": "Smartphone",
+    "price": 729.99,
+    "description": "OnePlus 9 Pro with Hasselblad camera and Fluid AMOLED display.",
+    "Specification": [
+      "Snapdragon 888",
+      "256GB Storage",
+      "48MP quad camera",
+      "6.7-inch Fluid AMOLED display",
+      "5G support"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "A001",
+    "product_title": "Apple AirPods Pro",
+    "product_image": "https://i.ibb.co.com/v3T2H8M/Apple-Air-Pods-Pro.png",
+    "category": "AirPods",
+    "price": 249.99,
+    "description": "Apple AirPods Pro with active noise cancellation and adaptive EQ.",
+    "Specification": [
+      "Active noise cancellation",
+      "Transparency mode",
+      "Spatial audio",
+      "Up to 4.5 hours of listening time"
+    ],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": "A002",
+    "product_title": "Samsung Galaxy Buds Pro",
+    "product_image": "https://i.ibb.co.com/xMmLvxZ/Samsung-Galaxy-Buds-Pro.jpg",
+    "category": "AirPods",
+    "price": 199.99,
+    "description": "Samsung Galaxy Buds Pro with active noise cancellation and long battery life.",
+    "Specification": [
+      "Active noise cancellation",
+      "Ambient sound",
+      "IPX7 water resistance",
+      "Up to 5 hours of listening time"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "A003",
+    "product_title": "Sony WF-1000XM4",
+    "product_image": "https://i.ibb.co.com/WvG1RzS/Sony-WF-1000-XM4.jpg",
+    "category": "AirPods",
+    "price": 279.99,
+    "description": "Sony's WF-1000XM4 with industry-leading noise cancellation and immersive sound.",
+    "Specification": [
+      "Active noise cancellation",
+      "6mm drivers",
+      "LDAC codec support",
+      "Up to 8 hours of listening time"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "W001",
+    "product_title": "Apple Watch Series 7",
+    "product_image": "https://i.ibb.co.com/bBLCgRp/Apple-Watch-Series-7.jpg",
+    "category": "SmartWatch",
+    "price": 399.99,
+    "description": "Apple Watch Series 7 with larger display and faster charging.",
+    "Specification": [
+      "41mm or 45mm case",
+      "Always-On Retina display",
+      "ECG and blood oxygen monitoring",
+      "Up to 18 hours of battery life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "W002",
+    "product_title": "Samsung Galaxy Watch 4",
+    "product_image": "https://i.ibb.co.com/3C6vRtP/Samsung-Galaxy-Watch-4.jpg",
+    "category": "SmartWatch",
+    "price": 349.99,
+    "description": "Samsung Galaxy Watch 4 with Wear OS, advanced health monitoring.",
+    "Specification": [
+      "44mm case",
+      "Super AMOLED display",
+      "Body composition analysis",
+      "Up to 40 hours battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "W003",
+    "product_title": "Garmin Venu 2",
+    "product_image": "https://i.ibb.co.com/7kCVLC6/Garmin-Venu-2.jpg",
+    "category": "SmartWatch",
+    "price": 399.99,
+    "description": "Garmin Venu 2 with AMOLED display and extensive health tracking features.",
+    "Specification": [
+      "AMOLED display",
+      "GPS and heart rate monitoring",
+      "Sleep and stress tracking",
+      "Up to 11 days battery life"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+]
